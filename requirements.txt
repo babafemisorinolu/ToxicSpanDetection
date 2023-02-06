@@ -1,0 +1,15 @@
+jupyterlab
+matplotlib
+nltk
+numpy
+tensorflow
+tensorflow_addons
+tokenizers
+scikit-learn
+tqdm
+torch
+gensim
+torchtext
+ray[tune]
+torchmetrics
+ordered-set
